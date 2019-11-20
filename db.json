@@ -1,11 +1,19 @@
 {
-    "posts": [
+    "numbers": [
       {
         "id": 1,
-        "title": "hello world"
+        "title": "one"
+      },
+      {
+        "id": 2,
+        "title": "two"
+      },
+      {
+        "id": 3,
+        "title": "three"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "John Doe"
     }
   }
